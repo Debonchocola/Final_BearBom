@@ -50,11 +50,11 @@
 
 
 <h1>:open_file_folder: 베어봄 발표영상 & PPT</h1><br>
-<a href="#" target="_blank">베어봄 시연 영상</a><br>
-
-<img width="80%" src="https://user-images.githubusercontent.com/107467812/195345765-49846297-6d72-40bc-97f4-4cdaa2d84b6a.mov"/>
+<a href="https://www.youtube.com/watch?v=qwCrcA6K4lg" target="_blank">베어봄 시연 영상</a><br>
 
 
 
-<a href="#" target="_blank">베어봄 PPT</a>
+
+
+
 <br><br>
