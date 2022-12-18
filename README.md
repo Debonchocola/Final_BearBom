@@ -54,7 +54,7 @@
 
 
 
-<a href="https://drive.google.com/file/d/18b6tLSIm-o5s51EJCo-BEnCdDN2WLNBU/view?usp=share_link" target="_blank">🎥베어봄  영상</a><br>
+<a href="https://drive.google.com/file/d/18b6tLSIm-o5s51EJCo-BEnCdDN2WLNBU/view?usp=share_link" target="_blank">🎥베어봄 시연 영상</a><br>
 
 
 
